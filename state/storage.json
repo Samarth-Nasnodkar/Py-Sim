@@ -1,1 +1,1 @@
-[{"name": "nand", "outputs": [[true], [true], [true], [false]]}, {"name": "or", "outputs": [[false], [true], [true], [true]]}, {"name": "3-and", "outputs": [[false], [false], [false], [false], [false], [false], [false], [true]]}, {"name": "2x1 mux", "outputs": [[false], [false], [false], [true], [false], [true], [false], [true]]}, {"name": "OR", "outputs": [[true], [false], [true], [true]]}]
+[]
